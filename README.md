@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <b>Desarrollador Fullstack · Ingeniería de Software · Colombia 🇨🇴</b>
+  <b>Estudiante de Ingeniería de Software · Último semestre · Colombia 🇨🇴</b>
 </p>
 
 <p align="center">
@@ -15,6 +15,10 @@
 <p align="center">
   <a href="mailto:leonardecojt@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-leonardecojt@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/leonardo-guzman-t">
+    <img src="https://img.shields.io/badge/LinkedIn-leonardo--guzman--t-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
@@ -58,9 +62,9 @@ E-commerce de suplementos deportivos con catálogo completo, carrito persistente
 API REST para gestión de citas que conecta clientes con profesionales, con autenticación JWT y control de roles.
 `Java 17` `Spring Boot 3` `Spring Security` `MySQL` `Swagger`
 
-### 🎰 [Sistema de Lotería — Fullstack](https://github.com/leonardeco/loteria-frontend)
-Prueba técnica fullstack con frontend en Angular y backend en Spring Boot.
-`Angular` `TypeScript` `Spring Boot` `Java`
+### 🎰 [Sistema de Lotería — Backend](https://github.com/leonardeco/loteria-backend)
+API REST de prueba técnica fullstack para gestión de lotería, consumida por un frontend Angular.
+`Java 17` `Spring Boot` `MySQL` `Gradle`
 
 ### 💎 [Empresa Publicar Lujos](https://github.com/leonardeco/Empresa-Publicar-Lujos)
 Landing page moderna para empresa de publicidad de lujo con galería de portafolio y CTA.
