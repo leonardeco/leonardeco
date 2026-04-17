@@ -93,8 +93,20 @@ Landing page moderna para empresa de publicidad de lujo con galería de portafol
 ## Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leonardeco&show_icons=true&theme=dark&hide_border=true&bg_color=0A0A0A&title_color=FF6B00&icon_color=FF6B00&text_color=ffffff" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=leonardeco&show_icons=true&theme=dark&hide_border=true&bg_color=0A0A0A&title_color=FF6B00&icon_color=FF6B00&text_color=ffffff&count_private=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardeco&layout=compact&theme=dark&hide_border=true&bg_color=0A0A0A&title_color=FF6B00&text_color=ffffff" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leonardeco&theme=dark&hide_border=true&background=0A0A0A&ring=FF6B00&fire=FF6B00&currStreakLabel=FF6B00&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=6B7280" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leonardeco&theme=github-compact&bg_color=0A0A0A&color=FF6B00&line=FF6B00&point=ffffff&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=leonardeco&style=for-the-badge&color=FF6B00&label=VISITAS+AL+PERFIL" />
 </p>
 
 ---
