@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <b>Estudiante de Ingeniería de Software · Último semestre · Colombia 🇨🇴</b>
+  <b>Estudiante de Ingeniería de Software · 6to semestre de 8 · Colombia 🇨🇴</b>
 </p>
 
 <p align="center">
