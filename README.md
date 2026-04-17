@@ -80,6 +80,10 @@ API REST para gestión de citas que conecta clientes con profesionales, con aute
 API REST de prueba técnica fullstack para gestión de lotería, consumida por un frontend Angular.
 `Java 17` `Spring Boot` `MySQL` `Gradle`
 
+### 🥑 [CM Aguacates Quindío](https://github.com/leonardeco/cmaguacates)
+Landing page para comercializadora de aguacates con galería lightbox, formulario Netlify y WhatsApp directo.
+`HTML` `CSS` `JavaScript` `Netlify`
+
 ### 💎 [Empresa Publicar Lujos](https://github.com/leonardeco/Empresa-Publicar-Lujos)
 Landing page moderna para empresa de publicidad de lujo con galería de portafolio y CTA.
 `React` `Tailwind CSS`
