@@ -1,14 +1,17 @@
-<h1 align="center">
-  Hola, soy Leonardo Guzmán 👋
-</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0F6E56&height=220&section=header&text=Leonardo%20Guzmán&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20Student%20·%20Colombia%20🇨🇴&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
 
 <p align="center">
-  <b>Estudiante de Ingeniería de Software · 6to semestre de 8 · Colombia 🇨🇴</b>
+  <a href="mailto:leonardecojt@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-leonardecojt@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/leonardo-guzman-t">
+    <img src="https://img.shields.io/badge/LinkedIn-leonardo--guzman--t-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
-  Construyo aplicaciones web modernas con React/Next.js y APIs robustas con Node.js y Spring Boot.
-  <br />
+  Construyo aplicaciones web modernas con <strong>React/Next.js</strong> y APIs robustas con <strong>Node.js</strong> y <strong>Spring Boot</strong>.<br/>
   Apasionado por el código limpio, el diseño funcional y los proyectos reales.
 </p>
 
@@ -26,16 +29,6 @@
     </td>
   </tr>
 </table>
-
-<p align="center">
-  <a href="mailto:leonardecojt@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-leonardecojt@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/leonardo-guzman-t">
-    <img src="https://img.shields.io/badge/LinkedIn-leonardo--guzman--t-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
 
 ---
 
@@ -124,20 +117,20 @@ Landing page moderna para empresa de publicidad de lujo con galería de portafol
 ## Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leonardeco&show_icons=true&theme=dark&hide_border=true&bg_color=0A0A0A&title_color=FF6B00&icon_color=FF6B00&text_color=ffffff&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardeco&layout=compact&theme=dark&hide_border=true&bg_color=0A0A0A&title_color=FF6B00&text_color=ffffff" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=leonardeco&show_icons=true&theme=dark&hide_border=true&bg_color=0A0A0A&title_color=1D9E75&icon_color=1D9E75&text_color=ffffff&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardeco&layout=compact&theme=dark&hide_border=true&bg_color=0A0A0A&title_color=1D9E75&text_color=ffffff" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leonardeco&theme=dark&hide_border=true&background=0A0A0A&ring=FF6B00&fire=FF6B00&currStreakLabel=FF6B00&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=6B7280" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leonardeco&theme=dark&hide_border=true&background=0A0A0A&ring=0F6E56&fire=1D9E75&currStreakLabel=1D9E75&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=6B7280" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leonardeco&theme=github-compact&bg_color=0A0A0A&color=FF6B00&line=FF6B00&point=ffffff&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leonardeco&theme=github-compact&bg_color=0A0A0A&color=1D9E75&line=0F6E56&point=ffffff&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=leonardeco&style=for-the-badge&color=FF6B00&label=VISITAS+AL+PERFIL" />
+  <img src="https://komarev.com/ghpvc/?username=leonardeco&style=for-the-badge&color=0F6E56&label=VISITAS+AL+PERFIL" />
 </p>
 
 ---
@@ -145,3 +138,5 @@ Landing page moderna para empresa de publicidad de lujo con galería de portafol
 <p align="center">
   <i>Abierto a oportunidades de trabajo y proyectos freelance</i>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0F6E56&height=120&section=footer" width="100%" />
