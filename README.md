@@ -47,6 +47,7 @@
 **Cloud**
 
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 **Herramientas**
 
@@ -57,6 +58,7 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-CC785C?style=flat-square&logo=anthropic&logoColor=white)
+![ANTIGRAVITY](https://img.shields.io/badge/ANTIGRAVITY-1A1A2E?style=flat-square&logoColor=white)
 
 ---
 
@@ -67,6 +69,10 @@
 ---
 
 ## Proyectos destacados
+
+### 💰 [GanancIA](https://github.com/leonardeco/ganacia)
+Micro-SaaS de inteligencia financiera para restaurantes en LATAM. Dashboard de rentabilidad con KPIs en tiempo real, matriz de ingeniería de menú BCG, chatbot "Gana" con IA y predicciones con machine learning.
+`Next.js 15` `Fastify` `TypeScript` `PostgreSQL` `Claude API` `Docker` `Stripe`
 
 ### 🏋️ [LEOFIT — Sports Store](https://github.com/leonardeco/sports-store)
 E-commerce de suplementos deportivos con catálogo completo, carrito persistente y pedidos por WhatsApp.
