@@ -12,6 +12,21 @@
   Apasionado por el código limpio, el diseño funcional y los proyectos reales.
 </p>
 
+---
+
+## Actualmente construyendo
+
+<table>
+  <tr>
+    <td>
+      <strong>💰 <a href="https://github.com/leonardeco/GanancIA">GanancIA</a></strong> — <a href="https://ganancia.app">ganancia.app</a><br/>
+      Micro-SaaS de inteligencia financiera para restaurantes en LATAM.<br/>
+      Dashboard de rentabilidad · Matriz BCG · Chatbot "Gana" con IA · Detección de fugas<br/>
+      <code>Next.js 15</code> <code>Fastify</code> <code>TypeScript</code> <code>PostgreSQL</code> <code>Claude API</code> <code>Docker</code>
+    </td>
+  </tr>
+</table>
+
 <p align="center">
   <a href="mailto:leonardecojt@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-leonardecojt@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -42,9 +57,11 @@
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black)
 
 **Cloud**
 
@@ -59,6 +76,7 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-CC785C?style=flat-square&logo=anthropic&logoColor=white)
 ![ANTIGRAVITY](https://img.shields.io/badge/ANTIGRAVITY-1A1A2E?style=flat-square&logoColor=white)
 
@@ -70,11 +88,11 @@
 
 ---
 
-## Proyectos destacados
+## Proyectos
 
 ### 💰 [GanancIA](https://github.com/leonardeco/GanancIA) — [ganancia.app](https://ganancia.app) `🚧 En desarrollo`
-Micro-SaaS de inteligencia financiera para restaurantes en LATAM. Dashboard de rentabilidad con KPIs en tiempo real, matriz de ingeniería de menú BCG, chatbot "Gana" con IA y predicciones con machine learning.
-`Next.js 15` `Fastify` `TypeScript` `PostgreSQL` `Claude API` `Docker` `Stripe`
+Micro-SaaS de inteligencia financiera para restaurantes en LATAM. Dashboard de rentabilidad con KPIs en tiempo real, matriz de ingeniería de menú BCG, simulador de precios, control de inventario, motor de alertas automático y chatbot "Gana" con IA.
+`Next.js 15` `Fastify` `TypeScript` `PostgreSQL` `Drizzle ORM` `Claude API` `Docker` `Turborepo`
 
 ### 🏋️ [LEOFIT — Sports Store](https://github.com/leonardeco/sports-store)
 E-commerce de suplementos deportivos con catálogo completo, carrito persistente y pedidos por WhatsApp.
@@ -83,6 +101,9 @@ E-commerce de suplementos deportivos con catálogo completo, carrito persistente
 ### 📅 [OptiAgenda](https://github.com/leonardeco/OptiAgenda)
 API REST para gestión de citas que conecta clientes con profesionales, con autenticación JWT y control de roles.
 `Java 17` `Spring Boot 3` `Spring Security` `MySQL` `Swagger`
+
+<details>
+<summary>Ver más proyectos</summary>
 
 ### 🎰 [Sistema de Lotería — Backend](https://github.com/leonardeco/loteria-backend)
 API REST de prueba técnica fullstack para gestión de lotería, consumida por un frontend Angular.
@@ -95,6 +116,8 @@ Landing page para comercializadora de aguacates con galería lightbox, formulari
 ### 💎 [Empresa Publicar Lujos](https://github.com/leonardeco/Empresa-Publicar-Lujos)
 Landing page moderna para empresa de publicidad de lujo con galería de portafolio y CTA.
 `React` `Tailwind CSS`
+
+</details>
 
 ---
 
