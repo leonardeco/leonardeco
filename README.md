@@ -82,6 +82,7 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-CC785C?style=flat-square&logo=anthropic&logoColor=white)
+![ANTIGRAVITY](https://img.shields.io/badge/ANTIGRAVITY-1A1A2E?style=flat-square&logoColor=white)
 
 ---
 
