@@ -21,11 +21,15 @@
 
 <table>
   <tr>
-    <td>
-      <strong>💰 <a href="https://github.com/leonardeco/GanancIA">GanancIA</a></strong> — <a href="https://ganancia.app">ganancia.app</a><br/>
-      Micro-SaaS de inteligencia financiera para restaurantes en LATAM.<br/>
-      Dashboard de rentabilidad · Matriz BCG · Chatbot "Gana" con IA · Detección de fugas<br/>
+    <td width="50%">
+      <strong>💰 <a href="https://github.com/leonardeco/GanancIA">GanancIA</a></strong> — <a href="https://ganancia.app">ganancia.app</a> <code>🚧 En desarrollo</code><br/><br/>
+      Micro-SaaS de inteligencia financiera para restaurantes en LATAM. Dashboard de rentabilidad, matriz BCG, chatbot "Gana" con IA y detección de fugas.<br/><br/>
       <code>Next.js 15</code> <code>Fastify</code> <code>TypeScript</code> <code>PostgreSQL</code> <code>Claude API</code> <code>Docker</code>
+    </td>
+    <td width="50%">
+      <strong>🏋️ <a href="https://github.com/leonardeco/sports-store">LEOFIT — Sports Store</a></strong><br/><br/>
+      E-commerce de suplementos deportivos con catálogo de +127 productos, carrito persistente y pedidos por WhatsApp.<br/><br/>
+      <code>React</code> <code>Vite</code> <code>Tailwind CSS</code> <code>React Router</code> <code>Context API</code>
     </td>
   </tr>
 </table>
@@ -56,28 +60,23 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black)
 
-**Cloud**
+**IA & Cloud**
 
+![Claude API](https://img.shields.io/badge/Claude_API-CC785C?style=flat-square&logo=anthropic&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 
 **Herramientas**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-CC785C?style=flat-square&logo=anthropic&logoColor=white)
-![ANTIGRAVITY](https://img.shields.io/badge/ANTIGRAVITY-1A1A2E?style=flat-square&logoColor=white)
-
----
-
-## Habilidades blandas
-
-`Resolución de problemas` `Pensamiento crítico` `Aprendizaje continuo` `Comunicación técnica` `Adaptabilidad` `Trabajo bajo presión`
 
 ---
 
@@ -88,15 +87,27 @@ Micro-SaaS de inteligencia financiera para restaurantes en LATAM. Dashboard de r
 `Next.js 15` `Fastify` `TypeScript` `PostgreSQL` `Drizzle ORM` `Claude API` `Docker` `Turborepo`
 
 ### 🏋️ [LEOFIT — Sports Store](https://github.com/leonardeco/sports-store)
-E-commerce de suplementos deportivos con catálogo completo, carrito persistente y pedidos por WhatsApp.
+E-commerce de suplementos deportivos con catálogo de +127 productos, carrito persistente en localStorage y pedidos por WhatsApp. Diseño oscuro premium, mobile-first, sin backend.
 `React` `Vite` `Tailwind CSS` `React Router` `Context API`
+
+### 📊 [BioFit Dashboard](https://github.com/leonardeco/biofit-dashboard)
+Dashboard para entrenadores y nutricionistas. Registra datos de bioimpedancia, calcula métricas automáticamente y genera planes personalizados de entrenamiento y nutrición con IA.
+`Next.js` `TypeScript` `Tailwind CSS` `Claude API`
+
+### 🤖 [SignalBot Desktop](https://github.com/leonardeco/signalbot-desktop)
+App de escritorio para análisis de señales en opciones binarias. Combina indicadores técnicos, Order Flow y Claude AI para generar señales CALL/PUT con nivel de confianza y razonamiento.
+`Electron` `React` `Vite` `Claude API`
+
+### 📈 [MT5-Claude](https://github.com/leonardeco/mt5-claude)
+Herramienta de consola que conecta MetaTrader 5 con Claude AI para análisis de trading en tiempo real. Calcula RSI, ATR, MACD y niveles clave, luego genera señales con gestión de riesgo.
+`Python` `MetaTrader5` `Anthropic SDK` `pandas`
+
+<details>
+<summary>Ver más proyectos</summary>
 
 ### 📅 [OptiAgenda](https://github.com/leonardeco/OptiAgenda)
 API REST para gestión de citas que conecta clientes con profesionales, con autenticación JWT y control de roles.
 `Java 17` `Spring Boot 3` `Spring Security` `MySQL` `Swagger`
-
-<details>
-<summary>Ver más proyectos</summary>
 
 ### 🎰 [Sistema de Lotería — Backend](https://github.com/leonardeco/loteria-backend)
 API REST de prueba técnica fullstack para gestión de lotería, consumida por un frontend Angular.
