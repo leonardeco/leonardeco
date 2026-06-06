@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0F6E56&height=220&section=header&text=Leonardo%20Guzmán&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20Student%20·%20Colombia%20🇨🇴&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0F6E56&height=220&section=header&text=Leonardo%20Guzmán&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20Developer%20·%20Colombia%20🇨🇴&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
 
 <p align="center">
   <a href="mailto:leonardecojt@gmail.com">
@@ -27,9 +27,9 @@
       <code>Next.js 15</code> <code>Fastify</code> <code>TypeScript</code> <code>PostgreSQL</code> <code>Claude API</code> <code>Docker</code>
     </td>
     <td width="50%">
-      <strong>🏋️ <a href="https://github.com/leonardeco/sports-store">LEOFIT — Sports Store</a></strong><br/><br/>
-      E-commerce de suplementos deportivos con catálogo de +127 productos, carrito persistente y pedidos por WhatsApp.<br/><br/>
-      <code>React</code> <code>Vite</code> <code>Tailwind CSS</code> <code>React Router</code> <code>Context API</code>
+      <strong>🚀 <a href="https://github.com/leonardeco/saas-boilerplate">SaaS Boilerplate</a></strong> <code>🔨 Open Source</code><br/><br/>
+      Monorepo de producción listo para escalar. Auth completo, OAuth, Stripe, organizaciones, CI/CD y deploy en Render.<br/><br/>
+      <code>Next.js 15</code> <code>Fastify 5</code> <code>TypeScript</code> <code>PostgreSQL</code> <code>Drizzle ORM</code> <code>Turborepo</code>
     </td>
   </tr>
 </table>
@@ -59,28 +59,36 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
 
-**IA & Cloud**
+**IA, Cloud & DevOps**
 
 ![Claude API](https://img.shields.io/badge/Claude_API-CC785C?style=flat-square&logo=anthropic&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 
 **Herramientas**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-CC785C?style=flat-square&logo=anthropic&logoColor=white)
 
 ---
 
 ## Proyectos
+
+### 🚀 [SaaS Boilerplate](https://github.com/leonardeco/saas-boilerplate) `🔨 Open Source`
+Monorepo de producción para construir SaaS rápidamente. Auth completo con JWT + refresh tokens, OAuth Google/GitHub, reset de contraseña por email, organizaciones con roles, Stripe billing, CI/CD con GitHub Actions y deploy en Render.
+`Next.js 15` `Fastify 5` `TypeScript` `PostgreSQL` `Drizzle ORM` `Stripe` `Vitest` `Turborepo` `Docker` `GitHub Actions`
 
 ### 💰 [GanancIA](https://github.com/leonardeco/GanancIA) — [ganancia.app](https://ganancia.app) `🚧 En desarrollo`
 Micro-SaaS de inteligencia financiera para restaurantes en LATAM. Dashboard de rentabilidad con KPIs en tiempo real, matriz de ingeniería de menú BCG, simulador de precios, control de inventario, motor de alertas automático y chatbot "Gana" con IA.
