@@ -92,13 +92,29 @@
 
 ## Proyectos
 
-### 🚀 [SaaS Boilerplate](https://github.com/leonardeco/saas-boilerplate) `🔨 Open Source`
-Monorepo de producción para construir SaaS rápidamente. Auth completo con JWT + refresh tokens, OAuth Google/GitHub, reset de contraseña por email, organizaciones con roles, Stripe billing, CI/CD con GitHub Actions y deploy en Render.
-`Next.js 15` `Fastify 5` `TypeScript` `PostgreSQL` `Drizzle ORM` `Stripe` `Vitest` `Turborepo` `Docker` `GitHub Actions`
+**🏢 Producción**
+
+### 🏢 [Lanxa Technology](https://github.com/leonardeco/Lanxa-Technology) — [lanxa-technology.vercel.app](https://lanxa-technology.vercel.app) `✅ En producción`
+Sitio web corporativo de Lanxa Technology, software factory para PYMEs en Armenia, Colombia. Landing institucional con presentación de servicios, portafolio de proyectos y contacto directo por WhatsApp.
+`Next.js 16` `TypeScript` `Tailwind CSS` `Vercel`
 
 ### 💰 [GanancIA](https://github.com/leonardeco/GanancIA) — [ganancia.app](https://ganancia.app) `🚧 En desarrollo`
 Micro-SaaS de inteligencia financiera para restaurantes en LATAM. Dashboard de rentabilidad con KPIs en tiempo real, matriz de ingeniería de menú BCG, simulador de precios, control de inventario, motor de alertas automático y chatbot "Gana" con IA.
 `Next.js 15` `Fastify` `TypeScript` `PostgreSQL` `Drizzle ORM` `Claude API` `Docker` `Turborepo`
+
+**🚀 Open Source**
+
+### 🚀 [SaaS Boilerplate](https://github.com/leonardeco/saas-boilerplate) `🔨 Open Source`
+Monorepo de producción para construir SaaS rápidamente. Auth completo con JWT + refresh tokens, OAuth Google/GitHub, reset de contraseña por email, organizaciones con roles, Stripe billing, CI/CD con GitHub Actions y deploy en Render.
+`Next.js 15` `Fastify 5` `TypeScript` `PostgreSQL` `Drizzle ORM` `Stripe` `Vitest` `Turborepo` `Docker` `GitHub Actions`
+
+**🤝 Proyectos en equipo**
+
+### 🍽️ [ReservaYa](https://github.com/leonardeco/ReservaYa) `👥 Equipo`
+Sistema de reservas online para restaurantes: búsqueda y filtrado de locales, ficha de detalle, flujo de reserva con confirmación y panel administrativo de gestión. Desarrollado en equipo junto a Kevin Correal y Saleth Ibarra.
+`Angular 21` `TypeScript` `Tailwind CSS` `Vitest` `Angular Signals`
+
+**💼 Personales**
 
 ### 🏋️ [LEOFIT — Sports Store](https://github.com/leonardeco/sports-store)
 E-commerce de suplementos deportivos con catálogo de +127 productos, carrito persistente en localStorage y pedidos por WhatsApp. Diseño oscuro premium, mobile-first, sin backend.
