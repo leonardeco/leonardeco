@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0F6E56&height=220&section=header&text=Leonardo%20Guzmán&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20Developer%20·%20Colombia%20🇨🇴&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7c5cff&height=220&section=header&text=Leonardo%20Guzmán&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20Developer%20·%20Colombia%20🇨🇴&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
 
 <p align="center">
   <a href="mailto:leonardecojt@gmail.com">
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  Construyo aplicaciones web modernas con <strong>React/Next.js</strong> y APIs robustas con <strong>Node.js</strong> y <strong>Spring Boot</strong>.<br/>
+  Construyo aplicaciones web modernas con <strong>React/Next.js</strong>, APIs robustas con <strong>FastAPI</strong> y <strong>Spring Boot</strong>, y productos SaaS completos listos para producción.<br/>
   Apasionado por el código limpio, el diseño funcional y los proyectos reales.
 </p>
 
@@ -22,14 +22,14 @@
 <table>
   <tr>
     <td width="50%">
+      <strong>🏢 <a href="https://github.com/leonardeco/Nexus-CRM">Lanxa ERP</a></strong> <code>🚧 En desarrollo</code><br/><br/>
+      ERP multi-tenant para PYMEs. Contabilidad, cartera CxC/CxP, inventario, nómina y reportes BI. Backend async con FastAPI + SQLAlchemy, frontend React 19 con TypeScript.<br/><br/>
+      <code>FastAPI</code> <code>React 19</code> <code>TypeScript</code> <code>SQLAlchemy</code> <code>SQLite/PostgreSQL</code> <code>JWT</code>
+    </td>
+    <td width="50%">
       <strong>💰 <a href="https://github.com/leonardeco/GanancIA">GanancIA</a></strong> — <a href="https://ganancia.app">ganancia.app</a> <code>🚧 En desarrollo</code><br/><br/>
       Micro-SaaS de inteligencia financiera para restaurantes en LATAM. Dashboard de rentabilidad, matriz BCG, chatbot "Gana" con IA y detección de fugas.<br/><br/>
       <code>Next.js 15</code> <code>Fastify</code> <code>TypeScript</code> <code>PostgreSQL</code> <code>Claude API</code> <code>Docker</code>
-    </td>
-    <td width="50%">
-      <strong>🚀 <a href="https://github.com/leonardeco/saas-boilerplate">SaaS Boilerplate</a></strong> <code>🔨 Open Source</code><br/><br/>
-      Monorepo de producción listo para escalar. Auth completo, OAuth, Stripe, organizaciones, CI/CD y deploy en Render.<br/><br/>
-      <code>Next.js 15</code> <code>Fastify 5</code> <code>TypeScript</code> <code>PostgreSQL</code> <code>Drizzle ORM</code> <code>Turborepo</code>
     </td>
   </tr>
 </table>
@@ -50,12 +50,15 @@
 
 **Backend**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black)
@@ -97,6 +100,10 @@
 ### 🏢 [Lanxa Technology](https://github.com/leonardeco/Lanxa-Technology) — [lanxa-technology.vercel.app](https://lanxa-technology.vercel.app) `✅ En producción`
 Sitio web corporativo de Lanxa Technology, software factory para PYMEs en Armenia, Colombia. Landing institucional con presentación de servicios, portafolio de proyectos y contacto directo por WhatsApp.
 `Next.js 16` `TypeScript` `Tailwind CSS` `Vercel`
+
+### 🏢 [Lanxa ERP](https://github.com/leonardeco/Nexus-CRM) `🚧 En desarrollo`
+ERP multi-tenant para PYMEs con módulos de contabilidad (PUC colombiano), cartera CxC/CxP, inventario, nómina y reportes BI. Backend asíncrono con FastAPI y SQLAlchemy, frontend React 19 con TypeScript y paleta de diseño propia. Autenticación JWT + refresh token rotativo en cookie HttpOnly.
+`FastAPI` `React 19` `TypeScript` `Vite` `SQLAlchemy` `SQLite/PostgreSQL` `JWT` `Python`
 
 ### 💰 [GanancIA](https://github.com/leonardeco/GanancIA) — [ganancia.app](https://ganancia.app) `🚧 En desarrollo`
 Micro-SaaS de inteligencia financiera para restaurantes en LATAM. Dashboard de rentabilidad con KPIs en tiempo real, matriz de ingeniería de menú BCG, simulador de precios, control de inventario, motor de alertas automático y chatbot "Gana" con IA.
@@ -158,20 +165,20 @@ Landing page moderna para empresa de publicidad de lujo con galería de portafol
 ## Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leonardeco&show_icons=true&theme=dark&hide_border=true&bg_color=0A0A0A&title_color=1D9E75&icon_color=1D9E75&text_color=ffffff&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardeco&layout=compact&theme=dark&hide_border=true&bg_color=0A0A0A&title_color=1D9E75&text_color=ffffff" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=leonardeco&show_icons=true&theme=dark&hide_border=true&bg_color=0A0A0A&title_color=1fe6cd&icon_color=7c5cff&text_color=ffffff&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardeco&layout=compact&theme=dark&hide_border=true&bg_color=0A0A0A&title_color=1fe6cd&text_color=ffffff" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leonardeco&theme=dark&hide_border=true&background=0A0A0A&ring=0F6E56&fire=1D9E75&currStreakLabel=1D9E75&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=6B7280" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leonardeco&theme=dark&hide_border=true&background=0A0A0A&ring=7c5cff&fire=1fe6cd&currStreakLabel=1fe6cd&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=6B7280" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leonardeco&theme=github-compact&bg_color=0A0A0A&color=1D9E75&line=0F6E56&point=ffffff&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leonardeco&theme=github-compact&bg_color=0A0A0A&color=1fe6cd&line=7c5cff&point=ffffff&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=leonardeco&style=for-the-badge&color=0F6E56&label=VISITAS+AL+PERFIL" />
+  <img src="https://komarev.com/ghpvc/?username=leonardeco&style=for-the-badge&color=7c5cff&label=VISITAS+AL+PERFIL" />
 </p>
 
 ---
@@ -180,4 +187,4 @@ Landing page moderna para empresa de publicidad de lujo con galería de portafol
   <i>Abierto a oportunidades de trabajo y proyectos freelance</i>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0F6E56&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7c5cff&height=120&section=footer" width="100%" />
