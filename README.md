@@ -21,15 +21,20 @@
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="33%">
       <strong>🏢 <a href="https://github.com/leonardeco/Nexus-CRM">Lanxa ERP</a></strong> <code>🚧 En desarrollo</code><br/><br/>
       ERP multi-tenant para PYMEs. Contabilidad, cartera CxC/CxP, inventario, nómina y reportes BI. Backend async con FastAPI + SQLAlchemy, frontend React 19 con TypeScript.<br/><br/>
-      <code>FastAPI</code> <code>React 19</code> <code>TypeScript</code> <code>SQLAlchemy</code> <code>SQLite/PostgreSQL</code> <code>JWT</code>
+      <code>FastAPI</code> <code>React 19</code> <code>TypeScript</code> <code>SQLAlchemy</code> <code>JWT</code>
     </td>
-    <td width="50%">
+    <td width="33%">
+      <strong>🔗 <a href="https://github.com/leonardeco/Nexus-CRM">Nexus-CRM</a></strong> <code>🚧 En desarrollo</code><br/><br/>
+      CRM empresarial con gestión de clientes, pipeline de ventas, seguimiento de oportunidades y automatización de flujos. Integrado con el ecosistema Lanxa ERP.<br/><br/>
+      <code>FastAPI</code> <code>React 19</code> <code>TypeScript</code> <code>SQLAlchemy</code> <code>JWT</code>
+    </td>
+    <td width="33%">
       <strong>💰 <a href="https://github.com/leonardeco/GanancIA">GanancIA</a></strong> — <a href="https://ganancia.app">ganancia.app</a> <code>🚧 En desarrollo</code><br/><br/>
       Micro-SaaS de inteligencia financiera para restaurantes en LATAM. Dashboard de rentabilidad, matriz BCG, chatbot "Gana" con IA y detección de fugas.<br/><br/>
-      <code>Next.js 15</code> <code>Fastify</code> <code>TypeScript</code> <code>PostgreSQL</code> <code>Claude API</code> <code>Docker</code>
+      <code>Next.js 15</code> <code>Fastify</code> <code>TypeScript</code> <code>PostgreSQL</code> <code>Claude API</code>
     </td>
   </tr>
 </table>
@@ -104,6 +109,10 @@ Sitio web corporativo de Lanxa Technology, software factory para PYMEs en Armeni
 ### 🏢 [Lanxa ERP](https://github.com/leonardeco/Nexus-CRM) `🚧 En desarrollo`
 ERP multi-tenant para PYMEs con módulos de contabilidad (PUC colombiano), cartera CxC/CxP, inventario, nómina y reportes BI. Backend asíncrono con FastAPI y SQLAlchemy, frontend React 19 con TypeScript y paleta de diseño propia. Autenticación JWT + refresh token rotativo en cookie HttpOnly.
 `FastAPI` `React 19` `TypeScript` `Vite` `SQLAlchemy` `SQLite/PostgreSQL` `JWT` `Python`
+
+### 🔗 [Nexus-CRM](https://github.com/leonardeco/Nexus-CRM) `🚧 En desarrollo`
+CRM empresarial para gestión integral de clientes, pipeline de ventas y seguimiento de oportunidades. Integrado con el ecosistema Lanxa, multi-tenant y con control de roles por empresa.
+`FastAPI` `React 19` `TypeScript` `SQLAlchemy` `JWT` `Python`
 
 ### 💰 [GanancIA](https://github.com/leonardeco/GanancIA) — [ganancia.app](https://ganancia.app) `🚧 En desarrollo`
 Micro-SaaS de inteligencia financiera para restaurantes en LATAM. Dashboard de rentabilidad con KPIs en tiempo real, matriz de ingeniería de menú BCG, simulador de precios, control de inventario, motor de alertas automático y chatbot "Gana" con IA.
