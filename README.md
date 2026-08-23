@@ -29,7 +29,7 @@
     <td width="34%" valign="top">
       <p align="center">
         <a href="https://github.com/leonardeco/Menu-Flow">
-          <img src="https://raw.githubusercontent.com/leonardeco/Menu-Flow/main/public/icon-192.png" width="56" height="56" alt="MenuFlow" />
+          <img src="menuflow-icon.png" width="56" height="56" alt="MenuFlow" />
         </a>
       </p>
       <strong><a href="https://github.com/leonardeco/Menu-Flow">MenuFlow</a></strong>
@@ -152,12 +152,12 @@ Reservas online: búsqueda, ficha, confirmación y panel.
 ## Actividad
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leonardeco&show_icons=true&theme=transparent&hide_border=true&title_color=EA580C&icon_color=7c5cff&text_color=e2e8f0&count_private=true" height="165" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardeco&layout=compact&theme=transparent&hide_border=true&title_color=EA580C&text_color=e2e8f0" height="165" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=leonardeco&show_icons=true&theme=dark&hide_border=true&bg_color=0A0A0A&title_color=EA580C&icon_color=7c5cff&text_color=ffffff&count_private=true" height="165" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardeco&layout=compact&theme=dark&hide_border=true&bg_color=0A0A0A&title_color=EA580C&text_color=ffffff" height="165" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=leonardeco&theme=dark&hide_border=true&background=00000000&ring=7c5cff&fire=EA580C&currStreakLabel=EA580C" alt="Streak" />
+  <img src="https://streak-stats.demolab.com?user=leonardeco&theme=dark&hide_border=true&background=0A0A0A&ring=7c5cff&fire=EA580C&currStreakLabel=EA580C" height="165" alt="Streak" />
 </p>
 
 <p align="center">
